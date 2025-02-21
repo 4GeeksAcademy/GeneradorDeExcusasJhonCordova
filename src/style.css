@@ -1,5 +1,16 @@
 @import "bootstrap/dist/css/bootstrap.min.css";
 
 body{
-    background: blue;
+    background: gainsboro;
 }
+
+  p {
+    font-family: Quicksand;
+  }
+
+  img {
+    justify-content: center;
+    align-items: center;
+    width: 600px;
+    height:600px;
+  }
